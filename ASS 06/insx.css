@@ -1,0 +1,59 @@
+body{
+    background-color:rgb(173, 173, 173) ;
+}
+
+.td1{
+    background-color: black;
+    width: 120px;
+    height: 100px;
+}
+
+.td2{
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    height: 100px;
+}
+
+.td3{
+    background-color: black;
+    width: 120px;
+    height: 100px;
+}
+
+.td4{
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    height: 100px;
+}
+
+.td5{
+    background-color: black;
+    width: 120px;
+    height: 100px;
+}
+
+.td6{
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    height: 100px;
+}
+
+.td7{
+    background-color: black;
+    width: 120px;
+    height: 100px;
+}
+
+.td8{
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    height: 100px;
+}
+.G01{
+    width: 95px;
+ 
+}
+.G02{
+    width: 110px;
+ 
+}
